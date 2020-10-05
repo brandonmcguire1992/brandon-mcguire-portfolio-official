@@ -2,7 +2,8 @@
 
 # Image
 
-<img src ="\assets\images\brandon-portfolio.jpg">
+<img src ="assets/images/brandon-portfolio.jpg">
+
 
 
 
