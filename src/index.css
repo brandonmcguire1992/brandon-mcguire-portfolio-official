@@ -1,13 +1,111 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body,
+html {
+  background-color: lightblue;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.hero{
+  width: -50%;
+  background-image: linear-gradient(
+        rgba(0, 0, 0, 0.4),
+        rgba(0, 0, 0, 0.8)
+  ), url('./assets/images/full-stack-developer-banner.jpg');
+  /* background-attachment: cover; */
+  background-size: 100%;
+  height: 250px;
+}
+
+header {
+  color: purple;
+}
+
+header .hero{
+  color: lightblue;
+  font-size: 35px;
+  font-weight: bolder;
+  padding-left: ;
+}
+
+header a{
+  justify-content: space-between;
+  display: flex;
+  
+  /* padding-left: 25px; */
+}
+
+header nav ul{
+  flex-wrap: wrap;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  list-style: none;
+  padding-left: 20px ;
+  color: lightblue;
+  justify-content: space-between;
+  padding-right: 20px;
+  padding: 120px;
+  font-weight: bolder;
+}
+
+.pagetitle {
+  padding-left: 50%;
+  color: purple;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.Barkeep {
+  /* background-image: url('./assets/images/barkeep.jpg'); */
+  display: block;
+  width: 100%;
+}
+
+.project img{
+  width: 60%;
+}
+
+.project-text {
+  font-size: 15px;
+  color: purple;
+}
+
+form {
+  padding-left: 120px;
+  font-size: 20px;
+  background-color: purple;
+  margin-left: 450px;
+  margin-right: 450px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: lightblue;
+  font-size: 25px;
+  font-weight: bolder;
+  border-radius: 40px;
+  display: inline-block;
+  padding-right: 100px;
+}
+button{
+  color: lightblue;
+  background-color: darkblue;
+  width: 180px;
+  height: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 20px;
+  
+}
+textarea {
+  width: 170px;
+  border-radius: 10px;
+}
+input{
+  border-radius: 10px;
+  height: 30px;
+}
+.my-5 {
+  color: purple;
+  font-size: 20px;
+}
+
+.masthead{
+  font-size: 20px;
 }
