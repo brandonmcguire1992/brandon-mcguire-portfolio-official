@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/brandon-mcguire-portfolio/static/css/main.d311e06a.chunk.css",
+    "main.js": "/brandon-mcguire-portfolio/static/js/main.0cbd1a5c.chunk.js",
+    "main.js.map": "/brandon-mcguire-portfolio/static/js/main.0cbd1a5c.chunk.js.map",
+    "runtime-main.js": "/brandon-mcguire-portfolio/static/js/runtime-main.ac3b9e48.js",
+    "runtime-main.js.map": "/brandon-mcguire-portfolio/static/js/runtime-main.ac3b9e48.js.map",
+    "static/js/2.de82c3fe.chunk.js": "/brandon-mcguire-portfolio/static/js/2.de82c3fe.chunk.js",
+    "static/js/2.de82c3fe.chunk.js.map": "/brandon-mcguire-portfolio/static/js/2.de82c3fe.chunk.js.map",
+    "index.html": "/brandon-mcguire-portfolio/index.html",
+    "precache-manifest.5081c221b644cbcb262923e7bb01c9e4.js": "/brandon-mcguire-portfolio/precache-manifest.5081c221b644cbcb262923e7bb01c9e4.js",
+    "service-worker.js": "/brandon-mcguire-portfolio/service-worker.js",
+    "static/css/main.d311e06a.chunk.css.map": "/brandon-mcguire-portfolio/static/css/main.d311e06a.chunk.css.map",
+    "static/js/2.de82c3fe.chunk.js.LICENSE.txt": "/brandon-mcguire-portfolio/static/js/2.de82c3fe.chunk.js.LICENSE.txt",
+    "static/media/Barkeep.jpg": "/brandon-mcguire-portfolio/static/media/Barkeep.ba78aab9.jpg",
+    "static/media/Horiseon.jpg": "/brandon-mcguire-portfolio/static/media/Horiseon.eb9c7d5a.jpg",
+    "static/media/Note Taker.jpg": "/brandon-mcguire-portfolio/static/media/Note Taker.5a43c156.jpg",
+    "static/media/Run Buddy.jpg": "/brandon-mcguire-portfolio/static/media/Run Buddy.1f39d869.jpg",
+    "static/media/Simple Social.jpg": "/brandon-mcguire-portfolio/static/media/Simple Social.03509038.jpg",
+    "static/media/brandon-portfolio.jpg": "/brandon-mcguire-portfolio/static/media/brandon-portfolio.3a793acc.jpg",
+    "static/media/coding.jpg": "/brandon-mcguire-portfolio/static/media/coding.2756b20c.jpg",
+    "static/media/full-stack-developer-banner.jpg": "/brandon-mcguire-portfolio/static/media/full-stack-developer-banner.3fce9256.jpg",
+    "static/media/portfolio.jpg": "/brandon-mcguire-portfolio/static/media/portfolio.e0ef73e7.jpg",
+    "static/media/profile.jpg": "/brandon-mcguire-portfolio/static/media/profile.a434b31b.jpg",
+    "static/media/weather-dashboard.jpg": "/brandon-mcguire-portfolio/static/media/weather-dashboard.9ab088cf.jpg",
+    "static/media/work-day-scheduler.jpg": "/brandon-mcguire-portfolio/static/media/work-day-scheduler.81ce1211.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3b9e48.js",
+    "static/js/2.de82c3fe.chunk.js",
+    "static/css/main.d311e06a.chunk.css",
+    "static/js/main.0cbd1a5c.chunk.js"
+  ]
+}
