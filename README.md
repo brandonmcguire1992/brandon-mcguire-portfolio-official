@@ -1,3 +1,13 @@
+# Brandon McGuire Portfolio
+
+# Image
+
+<img src ="images\brandon-portfolio.jpg">
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
