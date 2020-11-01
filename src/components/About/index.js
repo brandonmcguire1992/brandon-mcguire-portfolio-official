@@ -22,7 +22,6 @@ function About() {
                         it gives me more motivation to work and be successful
                         so that I will always know that he is proud of me.
                         </p>
-                        <a className='btn btn-primary btn-xl js-scroll-trigger' href='#about'>Look At My Work</a>
                     </div>
                 </div>
             </div>
